@@ -11,13 +11,13 @@
 
 ---
 
-# 🌐 Socials
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasfirange)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasfirange02@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,7 +46,9 @@
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-**# 🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### 🥷 NarutoBot – Multiplayer RPG Telegram Bot
 A real-time multiplayer RPG built as a Telegram bot featuring matchmaking, PvP battles, clans, seasons, and an in-game economy.
@@ -73,8 +75,8 @@ An AI-powered healthcare triage platform designed to assist patients in symptom 
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=tejasfirange&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=tejasfirange&theme=shadow_blue&hide_border=false&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tejasfirange&theme=shadow_blue&hide_border=false)
 
