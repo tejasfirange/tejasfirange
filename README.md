@@ -59,7 +59,7 @@ A real-time multiplayer RPG built as a Telegram bot featuring matchmaking, PvP b
 - **MMR ranking, clans, inventory, and seasonal leaderboards**
 - Optimized using **asynchronous workers and background processing**
 
-**Tech Stack:** Python, PostgreSQL, Redis, React + Node.Js
+**Tech Stack:** Python, PostgreSQL, React + FastAPI
 
 ---
 
