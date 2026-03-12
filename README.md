@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 Currently building **NarutoBot** — a real-time multiplayer RPG platform with matchmaking, PvP battles, clans, and an in-game economy  
+🔭 Currently building **NarutoBot** - a real-time multiplayer RPG platform with matchmaking, PvP battles, clans, and an in-game economy  
 
 👯 Open to collaborating on **backend systems, real-time applications, and system design projects**
 
@@ -30,8 +30,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express)
 
-### Frontend
+### Frontend / Mobile
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
@@ -47,14 +48,14 @@
 
 **# 🚀 Featured Projects
 
-### 🥷 NarutoBot – Real-Time Multiplayer RPG Platform
-A production-ready multiplayer RPG system with matchmaking, PvP battles, clans, ranking seasons, and an in-game economy.
+### 🥷 NarutoBot – Multiplayer RPG Telegram Bot
+A real-time multiplayer RPG built as a Telegram bot featuring matchmaking, PvP battles, clans, seasons, and an in-game economy.
 
 **Highlights**
-- Supports **2000+ active users**
-- Real-time battle system with **stateful combat engine**
-- **MMR ranking, seasons, clans, inventory, and economy systems**
-- Optimized with **asynchronous workers and background jobs**
+- Serves **2000+ active users**
+- Stateful **battle engine with multi-turn combat mechanics**
+- **MMR ranking, clans, inventory, and seasonal leaderboards**
+- Optimized using **asynchronous workers and background processing**
 
 **Tech Stack:** Node.js, PostgreSQL, Redis, WebSockets
 
