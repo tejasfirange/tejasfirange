@@ -74,14 +74,3 @@ An AI-powered healthcare triage platform designed to assist patients in symptom 
 **Tech Stack:** React, Node.js, Express, PostgreSQL
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=tejasfirange&show_icons=true&theme=shadow_blue&v=1)
-
-![](https://nirzak-streak-stats.vercel.app/?user=tejasfirange&theme=shadow_blue&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasfirange&theme=shadow_blue&hide_border=false&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=tejasfirange&icon=0&color=0)
