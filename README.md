@@ -76,7 +76,7 @@ An AI-powered healthcare triage platform designed to assist patients in symptom 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=tejasfirange&theme=shadow_blue&hide_border=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=tejasfirange&show_icons=true&theme=shadow_blue&count_private=true&include_all_commits=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tejasfirange&theme=shadow_blue&hide_border=false)
 
